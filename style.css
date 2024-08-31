@@ -1,0 +1,226 @@
+.back{
+    background-image: url(./image/Stylo-Banner.png);
+    background-repeat: no-repeat;       
+    background-size: cover;
+    height: 100vh;
+    justify-content: center;
+
+}
+.box{
+    width: 100%;
+    background-color: antiquewhite;
+    padding: 20px;
+    border: 2px solid rgb(63, 3, 3);  
+    border-radius: 8PX;
+    overflow: hidden;
+    box-shadow: 0 2PX 5PX black;
+
+}
+.box img{
+    align-items: center;
+}
+.btn{
+    margin-top: 5%;    
+    color: rgb(0, 0, 0);
+    background-color: rgb(146, 144, 245);
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 10px 20px;
+   text-decoration: none;
+    transition: background-color 0.5s ease;
+    margin-left: 45%;
+    margin-bottom: 10%;
+
+}
+.btn1{
+    padding: 5%;
+    color: rgb(235, 33, 168);
+    background-color: rgb(240, 240, 240);
+    border-radius: 8px;
+    border-color: rgb(235,33,168) ;
+    text-decoration: none;
+    transition: background-color 0.5s ease;
+    margin-left: 32%;
+   
+    
+
+}
+.btn:hover{
+    background-color: rgb(233, 37, 194);
+    color: rgb(224, 224, 224);
+}
+.btn1:hover{
+    background-color: rgb(235, 33, 168);
+    color: rgb(224, 224, 224);
+}
+
+
+.h1{
+    margin: 30px ;
+    font-weight: bold;
+    font-size: 4.5em;
+    text-align: center;
+    color: rgb(230, 11, 193);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.para1,.para2{
+    font-family: Arial, sans-serif;
+    font-size: 1.5em;       
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+    text-decoration: none;
+    text-decoration-line: none;
+    line-height: 1.5;
+    text-align: center;
+    line-height: 1.5;
+    margin: 0;
+    padding: 10px;
+}
+
+
+.container{
+ 
+    background-color: rgba(245, 173, 239, 0.925);
+    border-radius: 8px;
+    border: 2px solid rgb(63, 3, 3);
+    box-shadow: 0 2px 5px black;
+    margin-top: 20px;  
+}
+.content{
+     align-content: center;
+}
+.h2{
+    text-align: center;
+    margin-top: 0;
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.para3{
+    font-size: 1.3em;
+    line-height: 1.8;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.main{
+    display: flex;
+    gap: 30px;
+    margin-top: 0px;
+    border-radius: 16px;
+    justify-content: center;
+}
+.Shoes{
+    display: flexbox;
+    height: 200px;
+    border: 0 2px 5px solid;   
+}
+table{
+    border: 2px;
+     width: 70%;
+     margin-left: 15%;
+      height: fit-content;
+     background-color: rgb(0, 0, 0);
+}
+table,th,td{
+
+    align-items: center;
+    border: 2px solid rgb(243, 243, 243);
+    text-align: center;
+    font-size: 1.2em;
+    margin-bottom: 40px;
+}
+th,td{
+    padding: 10px;
+    border-radius: 8px;
+    color: violet;
+}
+.form{
+    margin-left: 25%;
+    font-size: 40px;
+    text-align: center;
+    width: 50%;
+}
+.form label{
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 10px;   
+    padding: 10px;
+    border-radius: 8px;
+   
+}
+input{
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+.body{
+    background-image: url(./image/ladies_\ garly\ back\ grond.webp);
+}
+.NEW-RATES{
+     font-size: 1em;
+     background-color: red;
+     font-weight: bold;
+}
+.order{
+    background-color: rgb(229, 221, 140);
+ 
+}
+.pic{
+    justify-content: center;
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+
+}
+.cont{
+    background: #f3c5a0;
+}
+.btn2{
+    margin-top: 5%;    
+    color: rgb(233,37,194);
+    border-radius: 8px;
+    padding: 10px 20px;
+   text-decoration: none;
+   background-color: rgb(247, 241, 241);
+    margin-left: 45%;
+    transition: background-color 0.5s ease;
+    font-size: 1.2em;
+    border-color: black;
+   
+}
+.btn2:hover{
+    background-color: rgb(233, 37, 194);
+    color: rgb(224, 224, 224);
+}
+.img-cont{
+    display: flex;
+
+}
+.img-cont{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+.soical
+{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+   
+}
+.soical ul li{
+    font-weight: bold;
+    color: rgb(20, 63, 255);
+    text-decoration: none;
+     border-radius: 8px;
+    margin-top: 0;
+     color: white;
+     
+
+}
+.soi{
+    background-color: rgb(24, 19, 19);
+}
